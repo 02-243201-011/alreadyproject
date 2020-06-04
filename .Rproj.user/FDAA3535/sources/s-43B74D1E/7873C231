@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591205772725.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7873C231",
+    "lastKnownWriteTime" : 1591205761,
+    "last_content_update" : 1591205761,
+    "path" : "~/testRepo/alreadyproject/newfile.R",
+    "project_path" : "newfile.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
